@@ -39,7 +39,4 @@ The project covers a range of fundamental NLP (Natural Language Processing) conc
 
 The project demonstrates how effective text mining techniques can convert unstructured textual data into valuable insights, enabling better decision-making and understanding of language-driven data.
 
-**Author**
 
-Ayushmaan Singh Shekhawat
-Developed as part of a Machine Learning and Natural Language Processing project on Text Mining.
